@@ -1,0 +1,5 @@
+/Users/ad/Projects/DisplayData/DisplayData/bin/Debug/DisplayData.exe
+/Users/ad/Projects/DisplayData/DisplayData/bin/Debug/DisplayData.pdb
+/Users/ad/Projects/DisplayData/DisplayData/obj/x86/Debug/DisplayData.csproj.CoreCompileInputs.cache
+/Users/ad/Projects/DisplayData/DisplayData/obj/x86/Debug/DisplayData.exe
+/Users/ad/Projects/DisplayData/DisplayData/obj/x86/Debug/DisplayData.pdb
